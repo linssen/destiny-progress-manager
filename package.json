@@ -21,6 +21,7 @@
     "babelify": "^7.3.0",
     "node-sass": "^3.10.0",
     "react": "^15.3.2",
+    "react-dom": "^15.3.2",
     "react-router": "^2.8.1",
     "reactify": "^1.1.1",
     "request-promise": "^4.1.1"
